@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Индивидуальный рунический код</string>
+    <string name="textView">Фамилия</string>
+    <string name="textView2">Имя</string>
+    <string name="textView3">Отчество</string>
+    <string name="textView4">Руна сущности</string>
+    <string name="textView5">Руна личности</string>
+    <string name="textView6">Золотая руна</string>
+    <string name="EditText">Дата рождения</string>
+
+    <string name="Button">Узнать</string>
+
+    <string name="ImageView">Руна сущности</string>
+    <string name="ImageView2">Руна личности</string>
+    <string name="ImageView3">Золотая руна</string>
+
+</resources>
